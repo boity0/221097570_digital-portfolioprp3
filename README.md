@@ -46,8 +46,8 @@ This digital portfolio showcases the evidence and reflections from my work Readi
 
 ### 📌 Evidence
 
-![Business Communication Screenshot](https://github.com/boity0/221097570_digital-portfolioprp3/blob/main/Business%20Communication.png)
-
+🎥 Mock Interview Video Recording
+📹 View my mock interview presentation
 ### ✍️Reflection (STAR)
 
 **S**ituation:I participated in a stimulated job interview sceniario designed to replicate real-world hiring processes.
