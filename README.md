@@ -49,6 +49,7 @@ This digital portfolio showcases the evidence and reflections from my work Readi
 🎥 Mock Interview Video Recording
 
 📹 [View my mock interview presentation](https://github.com/wil-it2025/cv-tutorial-boity0/blob/main/Mock%20Video.mov)
+![Mock Interview Screenshot]()
 ### ✍️Reflection (STAR)
 
 **S**ituation:I participated in a stimulated job interview sceniario designed to replicate real-world hiring processes.
