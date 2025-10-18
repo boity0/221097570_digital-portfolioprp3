@@ -1,4 +1,4 @@
-# 📁Boitumelo Xaba_digital-portfolioprp3
+# 📁Boitumelo Xaba_digital-Portfolio
 
 ---
 
