@@ -15,7 +15,7 @@ This digital portfolio showcases the evidence and reflections from my work Readi
 
 ### ✍️Reflection (STAR) 
 
-**S**ituation: I was reequired to demonstrate professional business communication skills, which are essesntial for collaborating in an IT enviroment.
+**S**ituation: I was required to demonstrate professional business communication skills, which are essesntial for collaborating in an IT enviroment.
 
 **T**ask: My task was to learn and apply proper professional etiquette in written communication, such as composing formal emails and creating clear project documentation.
 
@@ -38,7 +38,7 @@ This digital portfolio showcases the evidence and reflections from my work Readi
 
 **A**ction: I also researched common IT interview questions, practiced my responses using the STAR method, and participated in mock interviews to improve my confidence and delivery.
 
-**R**esult: I am now better prepared to articulate my skills and experiences effectively during job interviews and I can provide structured, compelling responses that highlight my qualifications
+**R**esult: I am now prepared to articulate my skills and experiences effectively during job interviews and I can provide structured, compelling responses that highlight my qualifications
 
 ---
 
@@ -56,7 +56,7 @@ This digital portfolio showcases the evidence and reflections from my work Readi
 
 **T**ask: My objective was to demonstrate my technical knowledge, problem sloving abilities and professional demeanor under interview conditions.
 
-**A**ction: I did a lot of  researched questions that are usually asked by many companies, practiced discussing my techinal skills and maintained professional body language and eye contact throughout the session.
+**A**ction: I did a lot of research questions that are usually asked by many companies, practiced discussing my techinal skills and maintained professional body language and eye contact throughout the session.
 
 **R**esult: The mock interview provided valuable feedback on my strengths and areas for improvement and handling pressure situations.
 
